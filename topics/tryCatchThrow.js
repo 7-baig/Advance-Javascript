@@ -1,0 +1,23 @@
+// TRY  CATCH THROW
+
+// try {
+//     aler('hello') // Spelling mistake in alert to generate error
+// } catch (err) {
+//     console.log('There is some problem ' + err)
+// }
+  
+// try {
+//     throw 'testing try..catch..throw'
+// } catch (err) {
+//     console.log('There is some problem ' + err)
+// }
+
+// try {
+//     nonExistentFunction();
+// }
+//   catch(error) {
+//     console.error(error);
+//     // expected output: ReferenceError: nonExistentFunction is not defined
+//     // Note - error messages will vary depending on browser
+// }
+  
